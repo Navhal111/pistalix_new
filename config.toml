@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "/"
+baseurl = "https://navhal111.github.io/pistalix_new/"
 languageCode = "en-us"
 title = "pistalix"
 
