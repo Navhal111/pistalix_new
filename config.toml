@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "/"
+baseurl = " "
 languageCode = "en-us"
 title = "pistalix"
 

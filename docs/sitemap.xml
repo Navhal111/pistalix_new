@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/404/</loc>
+    <loc>%20/404/</loc>
   </url>
   
   <url>
-    <loc>/aboutus/</loc>
+    <loc>%20/aboutus/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>%20/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>%20/contact/</loc>
   </url>
   
   <url>
-    <loc>/python/</loc>
+    <loc>%20/python/</loc>
   </url>
   
   <url>
-    <loc>/services/</loc>
+    <loc>%20/services/</loc>
   </url>
   
   <url>
-    <loc>/tv/</loc>
+    <loc>%20/tv/</loc>
   </url>
   
   <url>
-    <loc>/table/</loc>
+    <loc>%20/table/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>%20/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>%20/</loc>
     <priority>0</priority>
   </url>
   

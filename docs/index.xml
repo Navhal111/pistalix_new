@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pistalix</title>
-    <link>/</link>
+    <link>%20/</link>
     <description>Recent content on pistalix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="%20/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>404</title>
-      <link>/404/</link>
+      <link>%20/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/404/</guid>
+      <guid>%20/404/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>/aboutus/</link>
+      <link>%20/aboutus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/aboutus/</guid>
+      <guid>%20/aboutus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact US</title>
-      <link>/contact/</link>
+      <link>%20/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>%20/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pistalix</title>
-      <link>/python/</link>
+      <link>%20/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/python/</guid>
+      <guid>%20/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Services</title>
-      <link>/services/</link>
+      <link>%20/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/</guid>
+      <guid>%20/services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TV</title>
-      <link>/tv/</link>
+      <link>%20/tv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tv/</guid>
+      <guid>%20/tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Table</title>
-      <link>/table/</link>
+      <link>%20/table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/table/</guid>
+      <guid>%20/table/</guid>
       <description></description>
     </item>
     
